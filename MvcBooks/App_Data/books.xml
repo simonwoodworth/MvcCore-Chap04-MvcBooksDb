@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<DB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <books>
+    <Book>
+      <BookId>1004</BookId>
+      <CategoryId>1</CategoryId>
+      <Title>Introduction to .NET</Title>
+      <PubYear>2012</PubYear>
+    </Book>
+    <Book>
+      <BookId>1005</BookId>
+      <CategoryId>1</CategoryId>
+      <Title>C# Programming</Title>
+      <PubYear>2014</PubYear>
+    </Book>
+    <Book>
+      <BookId>1006</BookId>
+      <CategoryId>1</CategoryId>
+      <Title>VB.NET Programming</Title>
+      <PubYear>2013</PubYear>
+    </Book>
+    <Book>
+      <BookId>1007</BookId>
+      <CategoryId>1</CategoryId>
+      <Title>ASP.NET Programming</Title>
+      <PubYear>2015</PubYear>
+    </Book>
+    <Book>
+      <BookId>1008</BookId>
+      <CategoryId>2</CategoryId>
+      <Title>Java Programming</Title>
+      <PubYear>2009</PubYear>
+    </Book>
+    <Book>
+      <BookId>1009</BookId>
+      <CategoryId>2</CategoryId>
+      <Title>Advanced Java</Title>
+      <PubYear>2013</PubYear>
+    </Book>
+    <Book>
+      <BookId>1010</BookId>
+      <CategoryId>2</CategoryId>
+      <Title>JavaServer Pages</Title>
+      <PubYear>2010</PubYear>
+    </Book>
+    <Book>
+      <BookId>1017</BookId>
+      <CategoryId>3</CategoryId>
+      <Title>XML Fundamentals</Title>
+      <PubYear>2012</PubYear>
+    </Book>
+    <Book>
+      <BookId>1018</BookId>
+      <CategoryId>4</CategoryId>
+      <Title>Introduction to SQL</Title>
+      <PubYear>2008</PubYear>
+    </Book>
+  </books>
+  <cats>
+    <Category>
+      <CategoryId>1</CategoryId>
+      <Description>.NET</Description>
+    </Category>
+    <Category>
+      <CategoryId>2</CategoryId>
+      <Description>Java</Description>
+    </Category>
+    <Category>
+      <CategoryId>3</CategoryId>
+      <Description>XML</Description>
+    </Category>
+    <Category>
+      <CategoryId>4</CategoryId>
+      <Description>Databases</Description>
+    </Category>
+  </cats>
+</DB>
